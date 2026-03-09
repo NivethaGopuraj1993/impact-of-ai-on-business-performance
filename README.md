@@ -42,15 +42,13 @@ Tools Used
 	•	MySQL Workbench
 	•	GitHub
 
-Project Structure
+**Project Structure**
 impact-of-ai-on-business-performance
-│
-├── dataset
-│   └── ai_business_performance_survey_179.csv
-│
-├── sql_queries.sql
-├── insights.md
-└── README.md
+
+ai_business_performance_survey_179.csv (Dataset)
+sql_queries.sql
+insights.md
+README.md
 
 SQL Analysis
 
