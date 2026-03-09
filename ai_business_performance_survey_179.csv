@@ -1,0 +1,180 @@
+Respondent_ID,Company_Size,Role,AI_Adoption_Level,Productivity_Improvement_%,Decision_Making_Speed_%,Operational_Efficiency_%,Revenue_Growth_%,Employee_Satisfaction_Score
+1,Medium,Developer,Low,11.2,10.9,11.2,10.9,4.97
+2,Large,Manager,Low,10.6,34.7,25.7,11.7,3.19
+3,Large,IT Support,Moderate,7.8,13.8,19.7,15.9,3.49
+4,Medium,Developer,None,27.2,16.5,8.8,8.2,2.8
+5,Small,Developer,None,17.9,19.1,9.7,16.5,4.01
+6,Small,Data Analyst,High,16.7,21.2,14.7,23.0,3.68
+7,Small,Executive,Moderate,8.0,22.5,17.8,14.4,3.08
+8,Large,Data Analyst,None,13.1,22.8,19.7,6.5,2.69
+9,Medium,Manager,Low,7.1,17.0,21.7,7.7,4.58
+10,Large,IT Support,Low,11.1,22.7,19.2,10.3,2.48
+11,Small,Data Analyst,Moderate,5.3,16.7,24.1,7.8,3.95
+12,Large,Developer,Low,27.7,22.1,16.8,5.1,2.09
+13,Large,IT Support,Low,8.9,21.5,11.4,13.1,4.1
+14,Small,IT Support,None,8.0,23.3,16.0,10.5,4.28
+15,Small,Developer,Low,4.4,22.5,15.6,13.3,4.37
+16,Small,Data Analyst,Moderate,8.8,14.9,0.5,20.3,3.49
+17,Medium,Developer,None,11.0,21.2,12.6,10.3,4.71
+18,Medium,Executive,High,14.6,22.6,17.9,3.7,5.0
+19,Medium,IT Support,Low,9.8,9.0,13.5,9.2,3.37
+20,Small,Consultant,Low,2.2,16.1,12.1,17.4,3.28
+21,Medium,Consultant,None,2.9,22.3,21.5,16.7,3.7
+22,Small,Manager,Low,20.4,30.0,10.5,15.6,3.27
+23,Small,Developer,High,14.0,23.8,20.3,7.6,3.16
+24,Medium,Developer,Moderate,20.2,30.4,8.0,17.3,3.22
+25,Medium,Manager,Moderate,21.2,15.2,32.6,18.8,4.8
+26,Large,Manager,Moderate,16.2,19.8,14.7,7.1,4.14
+27,Small,Manager,Low,5.1,23.6,14.1,11.7,3.26
+28,Medium,IT Support,Moderate,16.5,1.7,22.9,26.1,1.88
+29,Medium,Executive,None,26.2,28.6,13.5,6.8,2.52
+30,Small,Developer,Moderate,11.4,5.0,24.7,0.1,3.95
+31,Medium,IT Support,Low,17.7,25.0,18.2,21.7,2.11
+32,Small,Manager,None,14.9,22.8,15.3,20.0,3.81
+33,Small,Developer,Low,26.0,1.6,14.6,8.8,2.85
+34,Large,IT Support,None,9.6,2.0,23.2,11.2,3.66
+35,Large,Executive,None,24.2,28.0,17.4,3.4,3.64
+36,Large,IT Support,Low,12.0,26.5,18.6,12.6,3.68
+37,Medium,Executive,High,9.4,11.8,19.2,20.2,3.32
+38,Small,Manager,Low,15.9,11.8,16.8,8.2,3.3
+39,Medium,Executive,None,17.7,21.6,19.1,18.1,3.1
+40,Medium,Developer,Moderate,30.3,17.9,15.3,15.2,3.94
+41,Small,Manager,High,17.6,25.4,15.7,16.0,4.16
+42,Medium,Developer,Low,16.5,21.4,9.3,8.6,2.75
+43,Small,Consultant,Low,27.8,29.1,17.8,9.5,3.56
+44,Large,Data Analyst,Moderate,19.8,24.8,5.7,0.0,3.74
+45,Small,Executive,None,9.8,23.0,17.7,8.0,3.73
+46,Medium,Data Analyst,High,25.8,15.5,14.3,20.1,3.72
+47,Medium,Data Analyst,High,9.1,15.0,18.2,5.5,3.32
+48,Medium,Executive,Low,9.8,17.6,9.7,6.5,3.8
+49,Medium,Manager,None,8.2,30.9,3.3,16.5,4.03
+50,Small,Consultant,High,7.5,15.2,13.9,14.8,3.7
+51,Large,Developer,Moderate,17.7,19.8,9.7,16.8,3.95
+52,Large,IT Support,Moderate,12.9,2.3,5.3,3.9,4.29
+53,Large,Developer,Moderate,0.0,22.7,20.6,29.9,2.3
+54,Large,IT Support,Moderate,12.9,33.8,25.6,3.5,4.26
+55,Medium,Developer,High,10.9,11.5,11.2,13.1,3.84
+56,Large,Executive,High,22.1,40.2,15.5,10.9,2.82
+57,Small,Consultant,High,10.5,19.3,14.2,3.7,4.16
+58,Small,IT Support,Moderate,35.3,-0.0,12.0,9.4,3.32
+59,Small,Manager,High,26.2,15.3,20.0,12.2,3.42
+60,Medium,Developer,Moderate,11.9,27.3,22.1,7.5,3.24
+61,Medium,Developer,Moderate,24.2,32.0,10.8,18.6,3.81
+62,Small,IT Support,None,19.2,23.0,16.3,10.9,3.05
+63,Large,Manager,High,16.9,29.0,23.7,2.6,4.23
+64,Medium,Manager,High,21.4,9.8,20.1,2.0,3.5
+65,Small,Executive,Moderate,15.4,13.2,21.0,16.2,3.35
+66,Medium,Executive,High,16.9,6.2,24.2,1.6,4.13
+67,Small,Executive,Moderate,21.6,13.8,24.1,14.2,3.38
+68,Large,Executive,Low,31.4,23.3,22.2,15.1,4.26
+69,Small,Executive,Low,17.0,19.5,16.9,5.0,4.29
+70,Large,Executive,Low,11.4,24.1,13.7,18.2,2.67
+71,Large,Consultant,Low,0.0,11.4,16.6,-0.0,4.38
+72,Small,Manager,None,30.7,11.9,12.8,14.1,2.58
+73,Small,Executive,Moderate,12.9,19.4,4.3,11.7,4.42
+74,Large,Manager,Low,19.3,13.8,14.3,11.2,5.0
+75,Large,Manager,Moderate,30.2,27.1,18.1,3.8,4.21
+76,Large,Data Analyst,Low,16.8,13.6,12.5,5.4,2.09
+77,Large,Consultant,Moderate,13.4,14.5,14.8,23.3,4.34
+78,Small,Executive,Low,26.4,20.9,15.1,20.5,5.0
+79,Medium,Developer,Low,18.7,15.3,24.1,17.2,3.39
+80,Small,IT Support,Low,19.7,9.4,13.8,18.6,3.58
+81,Large,Developer,Moderate,2.8,10.3,24.1,17.9,2.77
+82,Medium,Consultant,Low,24.6,21.8,0.0,9.7,3.82
+83,Medium,IT Support,High,18.0,8.5,24.1,12.3,4.49
+84,Small,Consultant,None,4.0,27.8,23.8,1.7,4.09
+85,Medium,Manager,Low,18.9,13.2,21.4,11.4,5.0
+86,Medium,IT Support,High,0.0,22.3,3.9,20.3,3.62
+87,Large,Manager,Moderate,33.7,13.6,22.1,7.4,2.46
+88,Medium,Developer,Low,6.2,11.6,15.7,19.2,3.72
+89,Large,Developer,Moderate,27.9,19.7,0.8,12.6,1.91
+90,Medium,IT Support,Moderate,8.5,25.4,23.8,2.3,3.23
+91,Small,IT Support,Moderate,19.5,16.3,24.7,4.2,4.74
+92,Large,Executive,None,7.7,17.5,4.6,18.4,3.83
+93,Large,Consultant,Low,23.0,23.7,17.1,15.9,3.73
+94,Medium,Executive,Moderate,13.1,23.9,24.3,12.7,4.87
+95,Large,Consultant,High,18.7,17.7,23.4,10.1,3.41
+96,Medium,Executive,Moderate,15.1,14.9,21.0,13.5,4.48
+97,Medium,Manager,Low,4.1,18.6,0.1,18.2,3.69
+98,Medium,IT Support,Moderate,19.0,16.7,20.4,22.3,3.87
+99,Small,Developer,Moderate,11.0,20.2,14.7,22.7,2.75
+100,Small,Consultant,Low,23.4,9.6,22.0,14.6,3.26
+101,Small,Consultant,Low,13.1,19.9,17.5,10.8,2.62
+102,Medium,Developer,Moderate,14.4,13.0,15.9,13.0,3.53
+103,Medium,Executive,Low,28.5,24.3,19.8,15.7,3.87
+104,Medium,Consultant,Low,34.1,13.3,15.0,15.6,2.82
+105,Large,Manager,Low,21.3,13.4,15.9,21.2,5.0
+106,Small,IT Support,None,12.7,21.1,12.7,26.8,3.79
+107,Medium,Developer,None,12.0,18.1,6.4,10.6,3.64
+108,Large,IT Support,High,8.5,33.9,19.4,27.1,4.14
+109,Small,Consultant,High,10.0,6.6,11.2,20.2,3.02
+110,Small,Consultant,Low,12.8,18.8,14.8,11.3,3.71
+111,Small,Developer,High,30.7,25.9,17.7,22.5,3.1
+112,Small,Manager,Moderate,13.4,14.0,3.5,23.8,4.69
+113,Large,Data Analyst,Low,5.2,11.6,4.8,8.8,2.86
+114,Large,Developer,Low,15.3,11.9,14.2,24.1,3.64
+115,Medium,Data Analyst,None,16.4,6.7,18.7,19.5,3.83
+116,Large,Executive,None,15.3,27.4,20.5,28.6,3.88
+117,Large,Data Analyst,Moderate,21.4,15.7,6.5,9.0,3.19
+118,Small,Manager,Moderate,15.6,14.9,19.8,9.5,2.97
+119,Large,Executive,Low,21.1,3.1,14.5,0.0,3.2
+120,Medium,Data Analyst,High,8.8,8.0,10.7,16.0,3.97
+121,Large,Executive,Moderate,29.2,28.3,12.1,14.6,3.5
+122,Large,Data Analyst,None,17.0,20.1,20.8,8.1,4.16
+123,Medium,Manager,High,18.2,26.2,17.6,11.4,3.93
+124,Small,Data Analyst,High,8.7,25.3,16.3,2.8,2.01
+125,Small,Data Analyst,High,18.8,11.0,17.5,20.4,3.77
+126,Medium,Data Analyst,None,20.2,35.0,21.6,8.6,5.0
+127,Large,Developer,Moderate,5.6,31.6,15.4,33.7,4.53
+128,Large,Developer,Moderate,1.7,14.1,16.3,10.8,3.9
+129,Small,Developer,Moderate,17.3,0.0,22.8,6.7,2.86
+130,Medium,Manager,High,11.1,15.5,14.0,9.1,3.93
+131,Medium,Executive,Moderate,17.1,19.7,19.7,2.1,4.12
+132,Small,Consultant,High,4.7,14.0,13.0,15.4,3.42
+133,Small,Data Analyst,High,2.5,16.4,13.5,9.1,3.82
+134,Medium,Data Analyst,High,16.7,12.2,15.4,19.9,4.66
+135,Large,Manager,Low,12.2,24.5,19.1,10.1,3.0
+136,Medium,Data Analyst,Low,0.0,18.4,23.2,21.7,2.86
+137,Medium,Developer,Low,25.7,24.7,16.6,17.3,4.08
+138,Large,Consultant,High,4.5,26.6,7.0,12.2,3.92
+139,Medium,IT Support,None,35.6,2.8,19.8,23.1,4.32
+140,Large,Data Analyst,Moderate,10.0,12.6,30.7,18.7,4.0
+141,Large,Developer,Low,18.2,13.6,16.7,32.6,3.2
+142,Small,IT Support,Moderate,28.2,36.0,5.7,9.1,3.9
+143,Medium,Consultant,High,26.8,19.0,17.0,12.5,2.8
+144,Medium,IT Support,High,30.9,23.7,16.0,23.0,3.42
+145,Small,Developer,Low,2.8,4.8,15.5,1.2,3.95
+146,Small,Executive,High,5.9,19.0,21.7,21.2,3.35
+147,Medium,Executive,Moderate,16.8,24.8,24.3,15.1,5.0
+148,Medium,IT Support,Low,21.7,24.0,20.1,5.8,2.28
+149,Small,Manager,Moderate,14.9,22.4,15.2,2.5,3.22
+150,Small,IT Support,Low,1.9,18.1,22.8,7.3,2.94
+151,Large,Data Analyst,Low,19.0,18.4,7.0,0.0,3.11
+152,Small,Data Analyst,Moderate,13.4,6.1,11.7,8.6,3.15
+153,Small,Executive,Low,13.4,11.7,12.4,16.4,2.67
+154,Medium,Manager,Low,0.0,19.6,15.8,8.7,4.13
+155,Large,Developer,Low,21.4,13.0,19.0,21.7,3.22
+156,Small,Data Analyst,Low,16.2,22.8,14.8,23.6,3.71
+157,Medium,Executive,Low,29.4,21.3,10.6,20.9,3.3
+158,Large,Consultant,Moderate,14.4,27.6,21.8,13.6,3.12
+159,Small,Executive,Moderate,19.5,24.7,14.6,0.0,4.77
+160,Large,Data Analyst,Moderate,21.7,19.6,16.6,7.1,4.25
+161,Medium,Data Analyst,High,1.0,23.2,19.3,11.0,2.29
+162,Medium,Executive,Moderate,35.9,25.0,16.2,5.7,2.22
+163,Medium,Developer,Moderate,11.6,14.4,16.3,11.0,4.33
+164,Medium,IT Support,Low,19.0,15.7,22.2,23.3,3.24
+165,Small,Data Analyst,Low,20.1,17.3,16.9,0.5,2.45
+166,Large,Executive,Low,8.5,14.7,21.2,24.7,4.33
+167,Medium,Executive,None,29.8,25.1,19.3,18.2,3.72
+168,Small,Manager,Moderate,17.1,13.6,28.1,13.9,3.78
+169,Small,IT Support,Low,13.3,26.8,18.5,7.0,4.17
+170,Medium,Consultant,High,16.1,15.4,19.8,5.9,2.68
+171,Medium,Developer,High,21.1,21.3,22.6,0.6,2.46
+172,Small,Consultant,Moderate,15.1,19.2,16.4,24.0,4.71
+173,Medium,IT Support,Low,22.1,11.2,12.2,22.8,2.59
+174,Small,IT Support,None,1.5,17.9,13.2,2.2,2.74
+175,Medium,IT Support,High,9.0,20.3,13.2,8.1,2.88
+176,Small,Consultant,High,0.0,17.5,10.3,15.0,5.0
+177,Medium,IT Support,Low,31.0,8.6,17.9,9.9,3.95
+178,Medium,Executive,Moderate,30.9,29.9,12.2,0.0,4.28
+179,Large,Consultant,None,20.0,18.6,17.2,7.4,3.74
